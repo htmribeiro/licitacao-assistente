@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+spacy
+LangChain
+PyMuPDF # pra ler PDF
+PDFPlumber # pra ler PDF
+OpenAI
+API
+LlamaIndex
