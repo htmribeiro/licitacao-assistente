@@ -7,6 +7,29 @@ Este projeto é um assistente para leitura, interpretação e geração de resum
 - **Frontend**: Interface do usuário para upload de editais e visualização dos resumos.
 - **Docs**: Documentação do projeto.
 
+```txt
+licitacao-assistente/
+├── backend/
+│   ├── app/
+│   │   ├── main.py
+│   │   ├── models/
+│   │   └── services/
+│   ├── requirements.txt
+│   └── tests/
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   └── App.js
+│   ├── package.json
+│   └── public/
+├── docs/
+│   ├── requirements.md
+│   └── architecture.md
+├── README.md
+└── .gitignore
+```
+
 ## Como Contribuir
 1. Faça um fork do repositório.
 2. Crie uma branch para sua feature (`git checkout -b minha-feature`).
